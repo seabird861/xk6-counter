@@ -1,4 +1,4 @@
-module github.com/mstoykov/xk6-counter
+module github.com/seabird861/xk6-counter
 
 go 1.15
 
